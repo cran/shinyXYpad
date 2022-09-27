@@ -1,0 +1,10 @@
+411dfc238adb15c7787c4c82331881a0 *DESCRIPTION
+f032bc2fc05fef33738a87db7ac13a6c *NAMESPACE
+be30821756de48db84cf97849452fee4 *NEWS.md
+a89ff150d2ad0be55083e643f46b1480 *R/XYpad.R
+79e73b1824ebb35ab76a283614bfabc5 *R/internal.R
+295e9e11a37d4218ffbfa5ae3eb2caf9 *README.md
+5f5eaf1ba2207b37ffd6e79807e1283e *inst/www/XYpad.js
+a6bf78e91a09c4c78bd650c4ab1f37cf *inst/www/XYpadBinding.js
+da5450834bb3e3a68213d586f88dd592 *man/XYpadInput.Rd
+32859732b343dd356cbcbf2eb288ad34 *man/updateXYpadInput.Rd
